@@ -1,0 +1,48 @@
+body {
+    background: linear-gradient(to bottom right, #A7C8FF 50%, #3F77FF 50%);
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: relative;
+}  
+
+.logo{
+    width: 50px;
+}
+.logo-span{
+    font-weight: 800;
+}
+.h2-head{
+    margin-top: 3%;
+    text-decoration:underline;
+}
+.img-form{
+    background-color: #f8f9fa !important;
+}
+.sb-btn{
+    margin:auto;
+    display:block;
+    margin-top:3% !important;
+}
+
+.display-div{
+    margin-top:3%;
+}
+
+.display-img{
+    margin: auto;
+    display: block;
+    border: 5px solid white;
+    box-shadow: 5px 5px 20px 5px rgba(0, 0, 0, 0.5);
+}
+
+.display-text{
+    font-size: 24px;
+    margin-top: 15%;
+}
+
+.disp-audio {
+    margin: 20px auto;
+    display: block;
+    width: 100%;
+    max-width: 500px;
+  }
